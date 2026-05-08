@@ -17,3 +17,5 @@ Main App/data.db
 # Logs
 *.log
 data.db
+
+packages.txt
